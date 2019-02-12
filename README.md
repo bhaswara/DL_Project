@@ -16,6 +16,11 @@ We used the same network as mention in the Cycle GAN paper. We also tried to cha
 ## Results
 The following images are the results of the experiment that we mentioned on the paper
 
+<p align="center">
+  <img width="500" height="1000" src="https://user-images.githubusercontent.com/36017469/52666929-d79e4700-2f0f-11e9-974d-ea72045d32ef.jpg">
+</p>
+
+
 
 For the python file, if you want to train the model just use: python main.py --dataroot datasets/bw2color/ --opencv . You can use PIL image by removing the '--opencv' command. This training will generate the trained data which is located inside /output folder.
 
