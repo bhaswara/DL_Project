@@ -2,6 +2,9 @@
 
 This is the github link for Deep Learning Project.
 
+We used the same network as mention in the Cycle GAN paper. We also tried to change the Generator part with UNet. The images are shown as seen below.
+
+
 For the python file, if you want to train the model just use: python main.py --dataroot datasets/bw2color/ --opencv . You can use PIL image by removing the '--opencv' command. This training will generate the trained data which is located inside /output folder.
 
 To test the model, just run python test.py --dataroot/bw2color/ --opencv . This is same with PIL image if you train the model using PIL image. Just remove '--opencv' . This result will be saved inside /output folder
