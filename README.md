@@ -16,13 +16,13 @@ We used the same network as mention in the Cycle GAN paper. We also tried to cha
 ## Running
 For the python file, if you want to train the model just use: 
 ```
-python main.py --dataroot datasets/day2night/ --opencv
+python main.py --dataroot datasets/day2night --opencv
 ```
 You can use PIL image format by removing the '--opencv' command. This training will generate the trained data which is located inside /output folder.
 
 To test the model, just run 
 ```
-python test.py --dataroot/day2night/ --opencv
+python test.py --dataroot/day2night --opencv
 ```
 This is same with PIL image if you train the model using PIL image. Just remove '--opencv' . This result will be saved inside /output folder
 
