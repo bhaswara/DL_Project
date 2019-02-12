@@ -40,6 +40,10 @@ The following images are the results of the experiment that we mentioned on the 
   <img width="500" height="1000" src="https://user-images.githubusercontent.com/36017469/52666929-d79e4700-2f0f-11e9-974d-ea72045d32ef.jpg">
 </p>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gzF1Z4PQaio"><img src="https://img.youtube.com/vi/gzF1Z4PQaio/0.jpg" alt="Cycle GAN Video"></a>
+</div>
+
 <p align="center">
   <img width="400" height="300" src="https://user-images.githubusercontent.com/36017469/52669669-f18f5800-2f16-11e9-93aa-3733a4faae8f.png">
 </p>
