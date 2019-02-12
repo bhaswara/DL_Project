@@ -57,5 +57,5 @@ The following images are the results of the experiment that we mentioned on the 
 </p>
 
 <p align="center">
-  <img width="400" height="300" src="https://user-images.githubusercontent.com/36017469/52669824-6c587300-2f17-11e9-99f3-5b72e787e0c6.png">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/36017469/52669943-b5102c00-2f17-11e9-86da-bb60d7163a41.png">
 </p>
