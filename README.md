@@ -18,13 +18,13 @@ For the python file, if you want to train the model just use:
 ```
 python main.py --dataroot datasets/day2night --opencv
 ```
-You can use PIL image format by removing the '--opencv' command. This training will generate the trained data which is located inside /output folder.
+You can use PIL image format by removing the '--opencv' command. This training will generate the trained data which is located inside output/ folder.
 
 To test the model, just run 
 ```
 python test.py --dataroot datasets/day2night --opencv
 ```
-This is same with PIL image if you train the model using PIL image. Just remove '--opencv' . This result will be saved inside /output folder
+This is same with PIL image if you train the model using PIL image. Just remove '--opencv' . This result will be saved inside output/A and output/B folder
 
 To process the video or another image just use .
 ```
