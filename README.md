@@ -34,7 +34,7 @@ There are 3 options there. If you use command '--camera', you can use your webca
 
 
 ## Results
-The following images are the results of the experiment that we mentioned on the paper
+The following images are the results of the experiment that we mentioned on the paper. The youtube video and the plot of the results are also provided below.
 
 <p align="center">
   <img width="500" height="1000" src="https://user-images.githubusercontent.com/36017469/52666929-d79e4700-2f0f-11e9-974d-ea72045d32ef.jpg">
