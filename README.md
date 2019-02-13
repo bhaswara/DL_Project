@@ -5,7 +5,7 @@ This is the github link for Deep Learning Project.
 We used the same network as mention in the Cycle GAN paper. We also tried to change the Generator part with UNet. The images are shown below.
 
 <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/36017469/52666029-5cd42c80-2f0d-11e9-9ccb-334281254c9e.jpg">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/36017469/52733442-05909380-2fc3-11e9-91eb-e607e2ebff16.jpg">
 </p>
 
 <p align="center">
