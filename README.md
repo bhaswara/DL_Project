@@ -1,6 +1,6 @@
 # DL_Project: Unpaired Day-to-Night translation using Cyclic GAN for Autonomous Driving
 
-This is the github link for Deep Learning Project.
+This is the github link for Deep Learning Project. You can read it [here](https://github.com/bhaswara/DL_Project/blob/master/Deep%20Learning%20Project.pdf)
 
 We used the same network as mention in the Cycle GAN paper. We also tried to change the Generator part with UNet. The images are shown below.
 
